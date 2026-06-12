@@ -78,7 +78,6 @@ DynamoDB
 ![Architecture Diagram](./screenshots/01-architecture-diagram.png)
 
 ### 2. S3 Bucket Setup
-Add a screenshot of the S3 bucket containing the uploaded frontend files (`index.html`, `style.css`, `script.js`).
 
 ![S3 Bucket](./screenshots/02-s3-bucket-files.png)
 
@@ -91,7 +90,6 @@ Add a screenshot of the S3 bucket containing the uploaded frontend files (`index
 ![Lambda Function](./screenshots/04-lambda-function.png)
 
 ### 5. API Gateway Resources
-Add a screenshot showing the `/users` resource and the `GET` method in API Gateway.
 
 ![API Gateway Resource](./screenshots/05-api-gateway-resource.png)
 
